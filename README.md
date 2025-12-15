@@ -166,7 +166,7 @@ Share your own TailwindCSS examples
 👨‍💻 Author
 Emmanuel Wangila Wakhongola
 
-Moringa School Student
+Moringa School Student Ai_Program
 
 Capstone Project - December 2025
 
