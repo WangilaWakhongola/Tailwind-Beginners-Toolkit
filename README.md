@@ -30,7 +30,7 @@ Running the Project
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/tailwind-beginners-toolkit.git
+git clone https://github.com/WangilaWakhongola/tailwind-beginners-toolkit.git
 cd tailwind-beginners-toolkit
 Open the HTML file:
 
