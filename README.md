@@ -41,7 +41,7 @@ GitHub actually uses TailwindCSS for parts of their UI. Their design team can pr
 
 ### Operating System
 Works on pretty much anything:
-- Windows 10/11
+- Windows 11
 - macOS 10.15 or newer
 - Linux (I tested on Ubuntu 20.04)
 
